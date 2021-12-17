@@ -20,6 +20,19 @@ h2{
     line-height: 2;
 }
 
+h3{
+    font-size: 10rem;
+    z-index: 2;
+    line-height: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h3:hover{
+    cursor:pointer;
+    color:#331b4e;
+}
+
 
 
 .background{
@@ -27,7 +40,8 @@ h2{
     width: 100vw;
     height: 100vh;
     background-size: cover;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
+    z-index: -1;
 }
 
 .cardBackground {
@@ -39,4 +53,46 @@ h2{
     transform: translate(-50%,-50%);
     background: linear-gradient(35deg, rgba(255, 255, 255, 0.034), rgba(245, 245, 245, 0.55) 30%, rgba(245, 245, 245, 0.55) 70%, rgba(255, 255, 255, 0.034));
     border-radius: 5%;
+    z-index: 0;
+}
+
+.cardSlider{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cardImage {
+    width:70%;
+    height:70%;
+    box-sizing: content-box;
+    border-width: 8px;
+    border-style: solid;
+    border-image: linear-gradient(to right bottom, #260B3C, #a053df);
+    border-image-slice: 1;
+}
+
+.fadeOut {
+    animation-name: fadeOut;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+}
+
+.fadeIn {
+    animation-name: fadeIn;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+}
+
+
+@keyframes fadeOut{
+    0% {opacity: 100%;}
+    100% {opacity: 0%;}
+}
+
+@keyframes fadeIn{
+    0% {opacity: 0%;}
+    100% {opacity: 100%;}
 }
