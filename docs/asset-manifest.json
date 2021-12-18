@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/VictoriaStudios.github.io/christmascard/static/css/main.23c9d247.css",
-    "main.js": "/VictoriaStudios.github.io/christmascard/static/js/main.cb31fc0c.js",
-    "static/media/image3.JPG": "/VictoriaStudios.github.io/christmascard/static/media/image3.292953092cad3500541d.JPG",
-    "static/media/image2.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image2.f4f085406eae77b7058c.jpg",
-    "static/media/image6.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image6.3d1a677dde831e097313.jpg",
-    "static/media/image5.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image5.246568ca5c9c84351f38.jpg",
-    "static/media/bg_christmas.jpg": "/VictoriaStudios.github.io/christmascard/static/media/bg_christmas.39917282729bdc32a501.jpg",
-    "static/media/image9.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image9.42deb388d06631a7a510.jpg",
-    "static/media/image7.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image7.3cd8660229328774f93e.jpg",
-    "static/media/image1.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image1.e18016e476c9c03faf67.jpg",
-    "static/media/image12.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image12.0c11662256b62c997728.jpg",
-    "static/media/image4.png": "/VictoriaStudios.github.io/christmascard/static/media/image4.fc07d0dba1ab9fc446f6.png",
-    "static/media/image11.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image11.13801b32c6c8b2b71fa6.jpg",
-    "static/media/image8.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image8.6ec2c3cae1c3bf08dea8.jpg",
-    "static/media/image10.jpg": "/VictoriaStudios.github.io/christmascard/static/media/image10.56008d9ae1e6a16f1d8f.jpg",
-    "index.html": "/VictoriaStudios.github.io/christmascard/index.html",
-    "main.23c9d247.css.map": "/VictoriaStudios.github.io/christmascard/static/css/main.23c9d247.css.map",
-    "main.cb31fc0c.js.map": "/VictoriaStudios.github.io/christmascard/static/js/main.cb31fc0c.js.map"
+    "main.css": "/christmascard/static/css/main.e8c48455.css",
+    "main.js": "/christmascard/static/js/main.82ec1bad.js",
+    "static/media/image3.JPG": "/christmascard/static/media/image3.292953092cad3500541d.JPG",
+    "static/media/image2.jpg": "/christmascard/static/media/image2.f4f085406eae77b7058c.jpg",
+    "static/media/image6.jpg": "/christmascard/static/media/image6.3d1a677dde831e097313.jpg",
+    "static/media/image5.jpg": "/christmascard/static/media/image5.246568ca5c9c84351f38.jpg",
+    "static/media/bg_christmas.jpg": "/christmascard/static/media/bg_christmas.39917282729bdc32a501.jpg",
+    "static/media/image9.jpg": "/christmascard/static/media/image9.42deb388d06631a7a510.jpg",
+    "static/media/image7.jpg": "/christmascard/static/media/image7.3cd8660229328774f93e.jpg",
+    "static/media/image1.jpg": "/christmascard/static/media/image1.e18016e476c9c03faf67.jpg",
+    "static/media/image12.jpg": "/christmascard/static/media/image12.0c11662256b62c997728.jpg",
+    "static/media/image4.png": "/christmascard/static/media/image4.fc07d0dba1ab9fc446f6.png",
+    "static/media/image11.jpg": "/christmascard/static/media/image11.13801b32c6c8b2b71fa6.jpg",
+    "static/media/image8.jpg": "/christmascard/static/media/image8.6ec2c3cae1c3bf08dea8.jpg",
+    "static/media/image10.jpg": "/christmascard/static/media/image10.56008d9ae1e6a16f1d8f.jpg",
+    "index.html": "/christmascard/index.html",
+    "main.e8c48455.css.map": "/christmascard/static/css/main.e8c48455.css.map",
+    "main.82ec1bad.js.map": "/christmascard/static/js/main.82ec1bad.js.map"
   },
   "entrypoints": [
-    "static/css/main.23c9d247.css",
-    "static/js/main.cb31fc0c.js"
+    "static/css/main.e8c48455.css",
+    "static/js/main.82ec1bad.js"
   ]
 }
