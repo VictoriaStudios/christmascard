@@ -8,13 +8,14 @@ body{
 }
 
 h1{
-    font-size: 7rem;
+    font-size: 4rem;
     text-align: center;
     opacity: 90%;
+    line-height: 0.5;
 }
 
 h2{
-    font-size: 5rem;
+    font-size: 3rem;
     text-align: center;
     opacity: 80%;
     line-height: 2;
@@ -57,14 +58,17 @@ h3:hover{
 }
 
 .cardSlider{
+    margin:auto;
+    width:50vw;
+    height:55vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .cardImage {
-    width: 50%;
-    height: 50%;
+    max-width: 80%;
+    max-height: 80%;
     box-sizing: content-box;
     border-width: 8px;
     border-style: solid;

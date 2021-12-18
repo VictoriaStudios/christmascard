@@ -53,7 +53,7 @@ const CardViewer = () => {
     const card7 = {
         title: "Conocimos un lugar maravilloso",
         image: image7,
-        text: "Y disfrutamos las mejores vacaciones de nuestras vidas..."
+        text: "Y disfrutamos las mejores vacaciones jamás..."
     }
 
     const card8 = {
