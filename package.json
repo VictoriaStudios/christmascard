@@ -2,7 +2,7 @@
   "name": "christmascard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "VictoriaStudios.github.io/christmascard",
+  "homepage": "victoriaStudios.github.io/christmascard",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
