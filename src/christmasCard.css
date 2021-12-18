@@ -8,13 +8,13 @@ body{
 }
 
 h1{
-    font-size: 5rem;
+    font-size: 7rem;
     text-align: center;
     opacity: 90%;
 }
 
 h2{
-    font-size: 3rem;
+    font-size: 5rem;
     text-align: center;
     opacity: 80%;
     line-height: 2;
@@ -63,8 +63,8 @@ h3:hover{
 }
 
 .cardImage {
-    width:70%;
-    height:70%;
+    width: 50%;
+    height: 50%;
     box-sizing: content-box;
     border-width: 8px;
     border-style: solid;

@@ -1,6 +1,6 @@
 
 
-const Card = ({ title, text, image, incrementIndex, decrementIndex }) => {
+const Card = ({ title, text, image, incrementIndex, decrementIndex, animClass }) => {
     function handleNext(){
         incrementIndex()
 
@@ -11,13 +11,13 @@ const Card = ({ title, text, image, incrementIndex, decrementIndex }) => {
     }
     return (
         <div>
-            <h1>{title}</h1>
+            <h1 className={animClass}>{title}</h1>
             <div className="cardSlider">
                 <h3 onClick={handlePrev}> &lt; </h3>
-                <img className="cardImage fadeOut" src={image} />
+                <img className={"cardImage " + animClass} src={image} />
                 <h3 onClick={handleNext}> &gt; </h3>
             </div>
-            <h2>{text}</h2>
+            <h2 className={animClass}>{text}</h2>
         </div>
     )
 }
